@@ -1,0 +1,6 @@
+#img-div{
+    position: relative;
+}
+#img-div img{
+    position: absolute;
+}
