@@ -1,6 +1,14 @@
-#img-div{
-    position: relative;
+#main {
+  text-align: center;
 }
-#img-div img{
-    position: absolute;
+
+#img-div {
+  resize: horizontal;
+}
+#img-div img {
+  max-width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
